@@ -1,3 +1,4 @@
 FROM alpine:latest
 
-RUN apk add openjdk15 ffmpeg
+RUN apk add zulu15-jre-headless
+RUN apk add ffmpeg
