@@ -1,1 +1,1 @@
-# alpine-java11-ffmpeg
+# THe image allows to work with Java and ffmpeg
