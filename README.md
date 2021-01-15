@@ -1,1 +1,1 @@
-# THe image allows to work with Java and ffmpeg
+# The image allows to work with Java and ffmpeg
