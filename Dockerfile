@@ -1,3 +1,3 @@
-FROM alpine:3.11
+FROM alpine:latest
 
-RUN apk add openjdk11 ffmpeg
+RUN apk add openjdk15 ffmpeg
