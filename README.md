@@ -1,1 +1,1 @@
-# The image allows to work with Java and ffmpeg
+# The image allows to work with Java 11 (openJDK 11) and ffmpeg
